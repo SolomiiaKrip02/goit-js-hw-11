@@ -4,7 +4,7 @@ import {
   clearGallery,
   showLoader,
   hideLoader,
-} from './js/render-functions';
+} from './js/render-functions.js';
 
 const form = document.getElementById('search-form');
 
